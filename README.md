@@ -29,6 +29,6 @@ Aqui estão alguns dos meus projetos que compartilho com vocês:
 Você pode me encontrar nas seguintes plataformas:
 
 - [LinkedIn](www.linkedin.com/in/klayver)
-- [GitHub](URL do seu GitHub)
+- [GitHub][(URL do seu GitHub)](https://github.com/Klayverc)
 
 Obrigado por visitar meu perfil! 😄
