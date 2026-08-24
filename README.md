@@ -2,7 +2,7 @@
 
 ## Sobre mim
 
-Olá, sou Klayver, nascido em 2008 e atualmente terminando meus estudos do ensino médio. Desde cedo, comecei a me interessar por programação e, para me aprofundar mais nesse mundo, decidi aprender Python. Comecei a fazer cursos no SENAI e outras plataformas, o que me ajudou a expandir meus conhecimentos e habilidades na área de tecnologia.
+Olá, sou Klayver, nascido em 2008 e atualmente terminando meus estudos da faculdade de analise e desenvolvimento de sistemas. Desde cedo, comecei a me interessar por programação e, para me aprofundar mais nesse mundo, decidi aprender Python. Comecei a fazer cursos no SENAI e outras plataformas, o que me ajudou a expandir meus conhecimentos e habilidades na área de tecnologia.
 
 ### Formação e Conhecimentos
 
