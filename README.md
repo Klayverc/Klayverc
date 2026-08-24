@@ -6,7 +6,8 @@ Olá, sou Klayver, nascido em 2008 e atualmente terminando meus estudos da facul
 
 ### Formação e Conhecimentos
 
-- **Ensino Médio**: Estou concluindo o ensino médio e me preparando para novos desafios.
+- **Ensino superior**: concluindo o ensino superior conseguindo desenvolver minhas habilidade com os cursos e interpretar matérias novas.
+- **Ensino Médio**: concluido o ensino médio e me preparei para faculdade.
 - **Programação**: Apaixonado por Python, comecei a aprender com cursos online e no SENAI.
   
 ### Onde moro
